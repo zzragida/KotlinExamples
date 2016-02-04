@@ -1,0 +1,5 @@
+package io.sweetheart.examples.hello
+
+fun main(args: Array<String>) {
+    println("hello kotlin")
+}
